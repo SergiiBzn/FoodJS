@@ -1,0 +1,3 @@
+# FoodJS
+
+MAMP + json server
